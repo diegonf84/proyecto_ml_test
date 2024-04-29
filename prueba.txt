@@ -1,1 +1,3 @@
-Archivo vacío
+Archivo vacío.
+
+Agregando líneas a un archivo TXT
