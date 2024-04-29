@@ -1,0 +1,13 @@
+name: entorno_test_ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip:
+    - pandas==2.1.4
+    - xgboost==2.0.3
+    - jupyterlab==4.0.9
+    - scikit-learn==1.3.2
+    - python-dotenv==1.0.0
+    - seaborn==0.13

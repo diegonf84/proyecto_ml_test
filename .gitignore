@@ -1,0 +1,5 @@
+# Archivos CSV
+*.csv
+
+# Variables entorno
+.env
